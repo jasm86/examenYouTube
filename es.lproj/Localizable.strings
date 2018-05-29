@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  Examen
+
+  Created by jasanchezm on 5/27/18.
+  Copyright © 2018 jasanchezm. All rights reserved.
+*/
+"TITLE_SEARCH" = "Busqueda";
+"OFFLINE" = "Error de red";
+"BUTTON_ACCEPT" = "Aceptar";
+"ALERT_SEARCH_TITLE" = "Busqueda";
+"ALERT_SEARCH_ERROR_MESSAGE" = "No se encontraron coincidencias";
